@@ -1,0 +1,11 @@
+C:\Repository\TestDataSort\TestDataSort\bin\Debug\TestDataSort.exe.config
+C:\Repository\TestDataSort\TestDataSort\bin\Debug\TestDataSort.exe
+C:\Repository\TestDataSort\TestDataSort\bin\Debug\TestDataSort.pdb
+C:\Repository\TestDataSort\TestDataSort\obj\Debug\TestDataSort.csprojAssemblyReference.cache
+C:\Repository\TestDataSort\TestDataSort\obj\Debug\TestDataSort.csproj.CoreCompileInputs.cache
+C:\Repository\TestDataSort\TestDataSort\obj\Debug\TestDataSort.exe
+C:\Repository\TestDataSort\TestDataSort\obj\Debug\TestDataSort.pdb
+C:\Repository\TestDataSort\TestDataSort\bin\Debug\Data\MVP101.csv
+C:\Repository\TestDataSort\TestDataSort\bin\Debug\Data\MVP102.csv
+C:\Repository\TestDataSort\TestDataSort\bin\Debug\Data\MVP103.csv
+C:\Repository\TestDataSort\TestDataSort\bin\Debug\Data\MVP104.csv
